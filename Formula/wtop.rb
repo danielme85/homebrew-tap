@@ -1,8 +1,8 @@
 class Wtop < Formula
   desc "A nimble, asynchronous Docker container monitor TUI"
   homepage "https://github.com/danielme85/wtop"
-  url "https://github.com/danielme85/wtop/archive/refs/tags/v1.0.3.tar.gz"
-  sha256 "c4912376952052b1c08ca7421656f17c890e9cec566ac80e98d5859fa290b082"
+  url "https://github.com/danielme85/wtop/archive/refs/tags/v1.1.0.tar.gz"
+  sha256 "078c924bf5ba22df0a17967aace9f61e4460afff486f35cedf84c77568806f2f"
   license "MIT"
 
   depends_on "rust" => :build
